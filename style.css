@@ -173,13 +173,82 @@ main {
 
 /*------------------------------------------------------------*/
 
-/*Parallax Scrolling*/
+/*Yichen's Page*/
+
+.parallax-persona5{
+  max-width: 1920px;
+  margin: 0 auto;
+  background-image: url('PS4Wallpapers.com_5a6308ad94dee_persona5wall.jpg');
+  height: 1080px;
+  width: 100%;
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 300;
+  display: flex;
+  flex-direction: column;
+  letter-spacing: 0.1rem;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.content-2 {
+  padding-left: 4rem;
+  background-image: linear-gradient(90deg, rgba(77, 73, 62, 0.2), rgba(77, 73, 62, 0.2) 14px, transparent 14px, transparent 20px, rgba(77, 73, 62, 0.2) 20px, rgba(77, 73, 62, 0.2) 23px, transparent 23px);
+  margin-bottom: 2rem;
+  margin-right: 4rem;
+  font-size: 18px;
+}
+
+/*video insert*/
+.video-house{
+  display: inline;
+  cursor: pointer;
+  border-radius: 5px
+  position: relative;
+  max-width: 578px;
+  margin: 0 auto;
+}
+
+.parallax-nier{
+  max-width: 1920px;
+  margin: 0 auto;
+  background-image: url('655992.jpg');
+  height: 1080px;
+  width: 100%;
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 300;
+  display: flex;
+  flex-direction: column;
+  letter-spacing: 0.1rem;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.parallax-nier2{
+  max-width: 1920px;
+  margin: 0 auto;
+  background-image: url('655990.jpg');
+  height: 1080px;
+  width: 100%;
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 300;
+  display: flex;
+  flex-direction: column;
+  letter-spacing: 0.1rem;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+/*--------------------------------------------------------*/
+
+
+/*---------------------------------------------------------*/
+/*Jason's Page*/
 
 .parallax{
   max-width: 1920px;
   margin: 0 auto;
   background-image: url('PS4Wallpapers.com_5a6308ad94dee_persona5wall.jpg');
-  height: 500px;
+  height: 900px;
   width: 100%;
   font-family: "Noto Sans", sans-serif;
   font-weight: 300;
@@ -203,7 +272,7 @@ main {
   max-width: 1920px;
   margin: 0 auto;
   background-image: url('Pokemonwallpaper.jpg');
-  height: 500px;
+  height: 900px;
   width: 100%;
   font-family: "Noto Sans", sans-serif;
   font-weight: 300;
@@ -227,7 +296,7 @@ main {
   max-width: 1920px;
   margin: 0 auto;
   background-image: url('Kirbywallpaper.jpg');
-  height: 500px;
+  height: 900px;
   width: 100%;
   font-family: "Noto Sans", sans-serif;
   font-weight: 300;
@@ -251,7 +320,7 @@ main {
   max-width: 1920px;
   margin: 0 auto;
   background-image: url('FF7wallpaper.jpg');
-  height: 500px;
+  height: 900px;
   width: 100%;
   font-family: "Noto Sans", sans-serif;
   font-weight: 300;
@@ -268,83 +337,214 @@ main {
   margin-bottom: 2rem;
   margin-right: 4rem;
 }
-
-/*Parallax Scrolling Nier*/
-
-.parallax-5{
-  max-width: 1920px;
-  margin: 0 auto;
-  background-image: url('655990.jpg');
-  height: 500px;
-  width: 100%;
-  font-family: "Noto Sans", sans-serif;
-  font-weight: 300;
-  display: flex;
-  flex-direction: column;
-  letter-spacing: 0.1rem;
-  background-size: cover;
-  background-attachment: fixed;
-}
-
-.content-2 {
-  padding-left: 4rem;
-  background-image: linear-gradient(90deg, rgba(77, 73, 62, 0.2), rgba(77, 73, 62, 0.2) 14px, transparent 14px, transparent 20px, rgba(77, 73, 62, 0.2) 20px, rgba(77, 73, 62, 0.2) 23px, transparent 23px);
-  margin-bottom: 2rem;
-  margin-right: 4rem;
-}
-
-/*------------------------------------------------------------*/
 
 /*Images*/
 
 .kirbyimg {
-  width: 500px;
+  height: 500px;
   margin-left: 4rem;
   margin-bottom: 2rem;
 }
 
 .kirbyimg2 {
-  width: 475px;
+  height: 500px;
   margin-left: 6rem;
   margin-bottom: 2rem;
 }
 
 .pokemonimg {
-  width: 500px;
+  height: 500px;
   margin-left: 4rem;
   margin-bottom: 2rem;
 }
 
 .pokemonimg2 {
-  width: 500px;
+  height: 500px;
   margin-left: 6rem;
   margin-bottom: 2rem;
 }
 
 .FF7img {
-  width: 500px;
+  height: 500px;
   margin-left: 4rem;
   margin-bottom: 2rem;
 }
 
 .FF7img2 {
-  width: 500px;
+  height: 500px;
   margin-left: 6rem;
   margin-bottom: 2rem;
 }
+/*--------------------------------------------*/
+/*Jacob's Page*/
 
-.Nierautomata {
-  width: 500px;
-  margin-left: 4rem;
-  margin-bottom: 2rem;
+.parallax{
+  max-width: 1920px;
+  margin: 0 auto;
+  background-image: url(2.jpg);
+  height: 500px;
+  width: 100%;
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 300;
+  display: flex;
+  flex-direction: column;
+  letter-spacing: 0.1rem;
+  background-size: cover;
+  background-attachment: fixed;
 }
 
-.Nierimg {
-  width: 500px;
-  margin-left: 6rem;
+.content-2 {
+  padding-left: 4rem;
+  background-image: linear-gradient(90deg, rgba(77, 73, 62, 0.2), rgba(77, 73, 62, 0.2) 14px, transparent 14px, transparent 20px, rgba(77, 73, 62, 0.2) 20px, rgba(77, 73, 62, 0.2) 23px, transparent 23px);
   margin-bottom: 2rem;
+  margin-right: 4rem;
 }
 
-img {
-  box-shadow: 3px 3px 0 rgba(77, 73, 62, 0.6);
+.parallax-Okami{
+  max-width: 1920px;
+  margin: 0 auto;
+  background-image: url(OkamiPoster1.jpg);
+  height: 500px;
+  width: 100%;
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 300;
+  display: flex;
+  flex-direction: column;
+  letter-spacing: 0.1rem;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.parallax-MHW{
+  max-width: 1920px;
+  margin: 0 auto;
+  background-image: url(MonsterHunterWallpaper.png);
+  height: 900px;
+  width: 100%;
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 300;
+  display: flex;
+  flex-direction: column;
+  letter-spacing: 0.1rem;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.parallax-Naruto{
+  max-width: 1920px;
+  margin: 0 auto;
+  background-image: url(NarutoBackground.jpg);
+  height: 900px;
+  width: 100%;
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 300;
+  display: flex;
+  flex-direction: column;
+  letter-spacing: 0.1rem;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.parallax-Tales{
+  max-width: 1920px;
+  margin: 0 auto;
+  background-image: url(TalesWallpaper.jpg);
+  height: 900px;
+  width: 100%;
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 300;
+  display: flex;
+  flex-direction: column;
+  letter-spacing: 0.1rem;
+  background-size: cover;
+  background-attachment: fixed;
+}
+/*--------------------------------------------*/
+
+/*Home Page*/
+.Persona{
+  max-width: 1920px;
+  margin: 0 auto;
+  background-image: url('P5Home.jpg');
+  height: 1080px;
+  width: 100%;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.Persona img{
+	height: 200px;
+}
+
+.Pokemon{
+  max-width: 1920px;
+  margin: 0 auto;
+  background-image: url('PokemonHome.jpg');
+  height: 1080px;
+  width: 100%;
+  background-size: cover;
+  background-attachment: fixed;
+  display: flex;
+}
+.Pokemon img{
+	height: 200px;
+}
+
+.Kirby{
+  max-width: 1920px;
+  margin: 0 auto;
+  background-image: url('KirbyHome.jpg');
+  height: 1080px;
+  width: 100%;
+  background-size: cover;
+  background-attachment: fixed;
+  display: flex;
+}
+
+.Kirby img{
+	height: 200px;
+}
+
+.FF7{
+  max-width: 1920px;
+  margin: 0 auto;
+  background-image: url('FF7Home.jpg');
+  height: 1080px;
+  width: 100%;
+  background-size: cover;
+  background-attachment: fixed;
+  display: flex;
+}
+
+.FF7 img{
+	height: 200px;
+}
+
+
+.Nier{
+  max-width: 1920px;
+  margin: 0 auto;
+  background-image: url('NierHome.jpg');
+  height: 1080px;
+  width: 100%;
+  background-size: cover;
+  background-attachment: fixed;
+  display: flex;
+}
+
+.Nier img{
+	height: 200px;
+}
+
+.MHW{
+  max-width: 1920px;
+  margin: 0 auto;
+  background-image: url('51304.jpg');
+  height: 1080px;
+  width: 100%;
+  background-size: cover;
+  background-attachment: fixed;
+  display: flex;
+}
+.MHW img{
+  height: 200px;
 }
